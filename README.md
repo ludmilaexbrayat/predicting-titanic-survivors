@@ -2,7 +2,7 @@
 
 **Context**
 <br>
-This notebook was created to participate in the Kaggle competition "<a href="https://www.kaggle.com/c/titanic" target = "_blank">Titanic: Machine Learning fro Disaster</a>".
+This notebook was created to participate in the Kaggle competition "<a href="https://www.kaggle.com/c/titanic" target = "_blank">Titanic: Machine Learning for Disaster</a>".
 <br>
 
 
